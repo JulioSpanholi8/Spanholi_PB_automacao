@@ -1,0 +1,8 @@
+Júlio César Spanholi
+
+A MasterClass de hoje foi de extrema importância para o aprendizado de Git.
+Esse reforço sobre versionamento de arquivos Git nos fez ter uma melhor 
+noção sobre os assuntos. Ontem aprendemos na teoria e vimos na prática, logo 
+depois fizemos o exercício proposto. Mas hoje conseguimos acompanhar depois de 
+ter um contato com as ferramentas, o qual ajudou num melhor entendimento 
+da lógica e como utilizar as ferramentas.
